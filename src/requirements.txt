@@ -1,0 +1,4 @@
+huaweicloudsdkcore>=3.1
+huaweicloudsdkiam>=3.1
+huaweicloudsdksmn>=2.2
+huaweicloudsdkcsms>=1.0
